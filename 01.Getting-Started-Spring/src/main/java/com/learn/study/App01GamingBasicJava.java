@@ -1,10 +1,9 @@
 package com.learn.study;
 
 import com.learn.study.game.GameRunner;
-import com.learn.study.game.MarioGame;
 import com.learn.study.game.PacmanGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
     public static void main(String[] args) {
 
